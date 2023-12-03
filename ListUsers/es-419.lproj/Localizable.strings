@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  ListUsers
+
+  Created by Juan Eduardo Montiel Dominguez on 02/12/23.
+  
+*/
+"mapTitle" = "Mapa";
+"acceptButton" = "Aceptar";
+"cancelButton" = "Cancelar";
+"titleBar" = "Usuarios";
+"titleAlert" = "Aviso";
+"msgLogOutAlert" = "¿Deseas Cerrar Sesion?";
+"msgLoading" = "Espere un momento...";
+"titleAlertError" = "Atención";
+"msgUserEmptyAlertError" = "Por favor indroduce el usuario";
+"msgUserInvalidAlertError" = "Por favor indroduce un usuario válido";
+"msgPassEmptyAlertError" = "Por favor indroduce la contraseña";
+"msgCredentialsInvalidAlertError" = "El usuario o la contraseña son incorrectas.";
+"msgGenericError" = "Ocurrio un error inesperado.";
+"internetConectionError" = "Favor de verificar que su conexión Wi Fi o de datos móviles esté activada y vuelva a intentarlo.";

@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = "Iniciar sesión"; ObjectID = "0ay-mz-ccY"; */
+"0ay-mz-ccY.normalTitle" = "Iniciar sesión";
+
+/* Class = "UILabel"; text = "Ubicación"; ObjectID = "1ya-Cr-2Ox"; */
+"1ya-Cr-2Ox.text" = "Ubicación";
+
+/* Class = "UILabel"; text = "Edad:"; ObjectID = "8Cq-lg-XzU"; */
+"8Cq-lg-XzU.text" = "Edad:";
+
+/* Class = "UIButton"; configuration.title = "Mapas"; ObjectID = "9r4-8N-QUB"; */
+"9r4-8N-QUB.configuration.title" = "Mapas";
+
+/* Class = "UITextField"; placeholder = "Contraseña"; ObjectID = "D6u-2A-lIz"; */
+"D6u-2A-lIz.placeholder" = "Contraseña";
+
+/* Class = "UILabel"; text = "Estado:"; ObjectID = "EwE-ix-Uq9"; */
+"EwE-ix-Uq9.text" = "Estado:";
+
+/* Class = "UILabel"; text = "Genero:"; ObjectID = "Lm9-rq-ufz"; */
+"Lm9-rq-ufz.text" = "Genero:";
+
+/* Class = "UILabel"; text = "Pais:"; ObjectID = "PQJ-Fv-UHf"; */
+"PQJ-Fv-UHf.text" = "Pais:";
+
+/* Class = "UILabel"; text = "Celular:"; ObjectID = "bcn-Aj-c9e"; */
+"bcn-Aj-c9e.text" = "Celular:";
+
+/* Class = "UILabel"; text = "Dirección:"; ObjectID = "dl7-a6-7pn"; */
+"dl7-a6-7pn.text" = "Dirección:";
+
+/* Class = "UINavigationItem"; title = "Users"; ObjectID = "g6m-2u-Z7N"; */
+"g6m-2u-Z7N.title" = "Usuarios";
+
+/* Class = "UILabel"; text = "C.P.:"; ObjectID = "j4X-8f-dHT"; */
+"j4X-8f-dHT.text" = "C.P.:";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "jPq-9X-JHA"; */
+"jPq-9X-JHA.text" = "Correo Electronico:";
+
+/* Class = "UILabel"; text = "Telefono:"; ObjectID = "l5F-bi-BLx"; */
+"l5F-bi-BLx.text" = "Telefono:";
+
+/* Class = "UILabel"; text = "Ciudad:"; ObjectID = "mIq-lp-QLA"; */
+"mIq-lp-QLA.text" = "Ciudad:";
+
+/* Class = "UITextField"; placeholder = "Usuario"; ObjectID = "pcx-Uo-Txx"; */
+"pcx-Uo-Txx.placeholder" = "Usuario";
+
+/* Class = "UILabel"; text = "Nombre:"; ObjectID = "vQh-eH-sjH"; */
+"vQh-eH-sjH.text" = "Nombre:";
