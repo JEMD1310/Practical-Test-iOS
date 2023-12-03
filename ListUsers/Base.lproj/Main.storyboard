@@ -83,31 +83,13 @@
                                                     <action selector="logInButtonPressed:" destination="Mex-Y3-2WD" eventType="touchUpInside" id="V7I-ad-ihR"/>
                                                 </connections>
                                             </button>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="deskjet" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eHb-cU-3Os">
-                                                <rect key="frame" x="32" y="346" width="329" height="17"/>
-                                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="purplerabbit912" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eYl-LE-1gm">
-                                                <rect key="frame" x="32" y="264" width="329" height="17"/>
-                                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                                <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <nil key="highlightedColor"/>
-                                            </label>
                                         </subviews>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
-                                            <constraint firstItem="eHb-cU-3Os" firstAttribute="top" secondItem="D6u-2A-lIz" secondAttribute="bottom" id="0aN-Vd-mvg"/>
                                             <constraint firstItem="hn1-ue-eaH" firstAttribute="centerX" secondItem="IbC-Uw-2ro" secondAttribute="centerX" id="2xe-Bl-qPE"/>
                                             <constraint firstAttribute="bottom" secondItem="0ay-mz-ccY" secondAttribute="bottom" constant="64" id="3aG-oV-HmC"/>
-                                            <constraint firstItem="eYl-LE-1gm" firstAttribute="leading" secondItem="IbC-Uw-2ro" secondAttribute="leading" constant="32" id="70q-8u-UuZ"/>
-                                            <constraint firstAttribute="trailing" secondItem="eYl-LE-1gm" secondAttribute="trailing" constant="32" id="HgM-2C-USg"/>
                                             <constraint firstAttribute="trailing" secondItem="0ay-mz-ccY" secondAttribute="trailing" constant="32" id="IkW-hA-DUn"/>
-                                            <constraint firstAttribute="trailing" secondItem="eHb-cU-3Os" secondAttribute="trailing" constant="32" id="Iq2-KA-RXn"/>
                                             <constraint firstItem="pcx-Uo-Txx" firstAttribute="top" secondItem="hn1-ue-eaH" secondAttribute="bottom" constant="32" id="KTD-H4-ZXS"/>
-                                            <constraint firstItem="eHb-cU-3Os" firstAttribute="leading" secondItem="IbC-Uw-2ro" secondAttribute="leading" constant="32" id="MG5-aG-7Jt"/>
-                                            <constraint firstItem="eYl-LE-1gm" firstAttribute="top" secondItem="pcx-Uo-Txx" secondAttribute="bottom" id="W0N-Xq-VA5"/>
                                             <constraint firstItem="0ay-mz-ccY" firstAttribute="leading" secondItem="IbC-Uw-2ro" secondAttribute="leading" constant="32" id="XEM-3u-zbK"/>
                                             <constraint firstItem="hn1-ue-eaH" firstAttribute="top" secondItem="IbC-Uw-2ro" secondAttribute="top" constant="32" id="Y5V-OG-H2b"/>
                                             <constraint firstItem="D6u-2A-lIz" firstAttribute="top" secondItem="pcx-Uo-Txx" secondAttribute="bottom" constant="32" id="azr-mg-W2o"/>
